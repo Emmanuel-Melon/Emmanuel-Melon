@@ -1,2 +1,2 @@
-# Emmanue-Melon
-My personal profile
+# Eman
+A Full-Snack Developer from South Sudan.
