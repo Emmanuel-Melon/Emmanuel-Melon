@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi from Eman!</h1>
-<p>
-  I'm a Software Developer from South Sudan 🇸🇸. I currently work at [FreelyFormd](https://freelyformd.com/) as the main contributor to the [LabXpert](https://medx.international/labxpert) project.  
+<p align="center">
+  I'm a Software Developer from South Sudan 🇸🇸. I currently work at <a href="https://freelyformd.com/">FreelyFormd</a> as the main contributor to the <a href="https://medx.international/labxpert">LabXpert</a> project.  
 </p>
 I've a huge passion for Open Source projects and that's what I'm mainly here for.
 <p align="center">
