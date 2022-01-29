@@ -8,8 +8,7 @@
 
 📘 Blog Articles
 
-- [MongoDB Aggregation Framework](https://hashnode.com/preview/60462ee55a56f82fa3ece0c3)
-- [Becoming Proficient with Git](https://hashnode.com/preview/606c6c59b17dc439b747ee69)
+- [Becoming Proficient with Git](https://eman.hashnode.dev/understanding-how-git-works)
 
 ---
 
