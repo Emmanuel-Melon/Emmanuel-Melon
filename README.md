@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Rust, Go**
 
-- 👨‍💻 All of my projects are available at [https://e-man.codes](https://e-man.codes)
+- 👨‍💻 All of my projects are available at [https://e-man.codes](Eman)
 
-- 📝 I regularly write articles on [https://eman.hashnode.dev](https://eman.hashnode.dev)
+- 📝 I regularly write articles on [https://eman.hashnode.dev](Hashnode)
 
-- 💬 Ask me about **React, GraphQL**
+- 💬 Ask me about **React, GraphQL, Next.js, PostgreSQL, MongoDB, Redis, Rust**
 
 - 📫 How to reach me **emmanuelgatwech@gmail.com**
 
