@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Rust, Go**
 
-- 👨‍💻 All of my projects are available at [https://e-man.codes](Eman)
+- 👨‍💻 All of my projects are available at [Eman](https://e-man.codes)
 
-- 📝 I regularly write articles on [https://eman.hashnode.dev](Hashnode)
+- 📝 I regularly write articles on [Hashnode](https://eman.hashnode.dev)
 
 - 💬 Ask me about **React, GraphQL, Next.js, PostgreSQL, MongoDB, Redis, Rust**
 
