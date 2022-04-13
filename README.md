@@ -3,9 +3,8 @@
 
 <a href="https://app.daily.dev/junubiman"><img src="https://api.daily.dev/devcards/e02ef937a3144b56b03e2f3304827b54.png?r=759" width="400" alt="Emmanuel Daniel's Dev Card"/></a>
 
-<p align="left"> <a href="https://twitter.com/junubiman" target="blank"><img src="https://img.shields.io/twitter/follow/junubiman?logo=twitter&style=for-the-badge" alt="junubiman" /></a> </p>
-
-- 🔭 I’m currently working on [Neno](https://github.com/Emmanuel-Melon/Neno)
+<div style="display: flex;">
+ - 🔭 I’m currently working on [Neno](https://github.com/Emmanuel-Melon/Neno)
 
 - 🌱 I’m currently learning **Rust, Go**
 
@@ -16,6 +15,9 @@
 - 💬 Ask me about **React, GraphQL, Next.js, PostgreSQL, MongoDB, Redis, Rust**
 
 - 📫 How to reach me **emmanuelgatwech@gmail.com**
+
+<p align="left"> <a href="https://twitter.com/junubiman" target="blank"><img src="https://img.shields.io/twitter/follow/junubiman?logo=twitter&style=for-the-badge" alt="junubiman" /></a> </p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
