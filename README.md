@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Daniel</h1>
 <h3 align="center">Software Developer with an extensive experience in building fast, scalable & user friendly apps.</h3>
 
+<a href="https://app.daily.dev/junubiman"><img src="https://api.daily.dev/devcards/e02ef937a3144b56b03e2f3304827b54.png?r=759" width="400" alt="Emmanuel Daniel's Dev Card"/></a>
+
 <p align="left"> <a href="https://twitter.com/junubiman" target="blank"><img src="https://img.shields.io/twitter/follow/junubiman?logo=twitter&style=for-the-badge" alt="junubiman" /></a> </p>
 
 - 🔭 I’m currently working on [Neno](https://github.com/Emmanuel-Melon/Neno)
