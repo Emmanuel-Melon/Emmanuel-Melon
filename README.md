@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Daniel</h1>
 <h3 align="center">Software Developer with an extensive experience in building fast, scalable & user friendly apps.</h3>
-
-<a href="https://app.daily.dev/junubiman"><img src="https://api.daily.dev/devcards/e02ef937a3144b56b03e2f3304827b54.png?r=759" width="400" alt="Emmanuel Daniel's Dev Card"/></a>
-
 - 🔭 I’m currently working on [Inspirers](https://github.com/Emmanuel-Melon/inspirers)
 
 - 🌱 I’m currently learning **Rust, Go**
