@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Daniel 🐞</h1>
 <h3 align="center">Software Developer with an extensive experience in building fast, scalable & user friendly apps.</h3>
 
-- 🔭 I’m currently working on [Planet of The Bugs](https://github.com/Emmanuel-Melon/planet-of-the-bugs) 🐞 and [Sahil](https://github.com/Emmanuel-Melon/sahil).
+- 🔭 I’m currently working on [Planet of The Bugs](https://github.com/Emmanuel-Melon/planet-of-the-bugs) 🐞 and [Sahil](https://github.com/Emmanuel-Melon/sahil) 🍀.
 
 - 🌱 I’m currently learning **Rust, Svelte && Machine Learning**
 
