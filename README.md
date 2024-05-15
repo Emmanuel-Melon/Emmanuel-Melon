@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Daniel 🐞</h1>
-<h3 align="center">Software Developer with an extensive experience in building fast, scalable & user friendly apps.</h3>
+<h3 align="center">I am a software developer with over four years of experience and a passion for building innovative solutions that address real-world problems.</h3>
+
+- 🔭 I’m a FullStack Engineer @ [Packth](https://thepack.tech/) 
 
 - 🔭 I’m currently working on [Planet of The Bugs](https://github.com/Emmanuel-Melon/planet-of-the-bugs) 🐞 and [Sahil](https://github.com/Emmanuel-Melon/sahil) 🍀.
 
